@@ -2,8 +2,8 @@
     "inbounds": 
     [
         {
-            "port": 3000,"protocol": "vless",
-            "settings": {"clients": [{"id": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"}],"decryption": "none"},
+            "port": 8989,"protocol": "vless",
+            "settings": {"clients": [{"id": "37b6cd11-3014-4e66-beb6-965f2ba0ab85"}],"decryption": "none"},
             "streamSettings": {"network": "ws","wsSettings": {"path": "/"}}
         }
     ],
